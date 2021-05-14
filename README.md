@@ -1,2 +1,3 @@
 # Bot-Discord
  
+I decided to create my own discord bot for the server where my friends are. It is a way to practice and improve skills in javascript since it is a language widely used in front-end and I like it. As I said, it's a bot programmed in javascript, but it doesn't do a lot of things yet because I'm still learning and developing. The existing commands are clear, warning and help, but I intend to add more commands such as play, disconnect, and more...
